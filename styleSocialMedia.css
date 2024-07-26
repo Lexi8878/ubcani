@@ -1,0 +1,82 @@
+* {
+	font-family: 'Lexend';
+}
+
+#news {
+	margin-left: 450px;
+}
+
+.hanamiText {
+	float: left;
+	margin-left: 450px;
+}
+
+.valentinesText {
+	padding-top: 50px;
+	float: left;
+	margin-left: 450px;
+}
+
+.eventImg {
+	float: right;
+	position: relative;
+	margin-top: 50px;
+	margin-right: 350px;
+}
+
+
+.navbar {
+	margin-right: 670px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+} 
+
+.navbar li, #onigiri {
+  float: right;
+  margin-left: 20px;
+}
+
+.navbar li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.line {
+	padding-top: 10px;
+	border-bottom: 2px solid #D3D3D3;
+}
+
+
+.socialMedia {
+  padding: 32px;
+  
+}
+
+.socialMediaContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.socialMediaTitle {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.socialMediaCard {
+  background-color: #fff;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px;
+  padding: 20px;
+  margin: 10px;
+}

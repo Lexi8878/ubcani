@@ -1,0 +1,53 @@
+* {
+	font-family: 'Lexend';
+}
+
+
+.navbar {
+	margin-right: 670px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+} 
+
+.navbar li, #onigiri {
+  float: right;
+  margin-left: 20px;
+}
+
+.navbar li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.line {
+	padding-top: 10px;
+	border-bottom: 2px solid #D3D3D3;
+}
+
+#myVideo {
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.intro {
+  position: fixed;
+  bottom: 0;
+  color: white;
+  background-color: rgba(34, 34, 34, 0.5);
+  width: 100%;
+  padding: 20px;
+}
+
+p {
+	font-size: 18px;
+}
